@@ -1,0 +1,3 @@
+[submodule "webpack-sunum"]
+	path = webpack-sunum
+	url = https://github.com/d0ruk/webpack-sunum
