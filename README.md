@@ -5,3 +5,4 @@ Frontend İstanbul etkinliklerinde yapılan sunumlara buradan ulaşabilirsiniz.
 - [Modern Web Uygulamalarında Redux](https://github.com/frontendistanbul/presentations/blob/master/redux-presentation.pdf)
 - [Modern Frontend Mimarsi](https://github.com/frontendistanbul/presentations/blob/master/PWA-20102017.pdf)
 - [Nuxt.js](https://github.com/frontendistanbul/presentations/blob/master/nuxtssr-presentation.pdf)
+- [Next.js - Workshop](https://github.com/frontendistanbul/presentations/blob/master/Nextjs-workshop.pdf)
