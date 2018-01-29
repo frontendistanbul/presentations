@@ -8,5 +8,5 @@ Frontend İstanbul etkinliklerinde yapılan sunumlara buradan ulaşabilirsiniz.
 - [React 101 - V.Mahir Yılmaz](https://github.com/frontendistanbul/presentations/blob/master/20171205-React-101-and-An-Introduction-to-Life-Cycle-Events-in-React.pdf)
 - [Next.js Workshop - İlker Güller](https://github.com/frontendistanbul/presentations/blob/master/Nextjs-workshop.pdf)
 - [Css Animations - Aslıhan Özfidan](https://github.com/frontendistanbul/presentations/blob/master/css_animation.pdf)
-- [Vuex ve Efektif Kullanımı](http://slides.com/abdullahmara/fe-2018-kh#)
+- [Vuex ve Efektif Kullanımı - Abdullah Mara](http://slides.com/abdullahmara/fe-2018-kh#)
 - [Mobx ile Basit ve Ölçeklenebilir State Yönetimi - Ahmet Deniz](http://slides.com/ahmetdeniz/deck-1#)
