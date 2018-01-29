@@ -7,3 +7,4 @@ Frontend İstanbul etkinliklerinde yapılan sunumlara buradan ulaşabilirsiniz.
 - [Nuxt.js - Oğuzhan Aslan](https://github.com/frontendistanbul/presentations/blob/master/nuxtssr-presentation.pdf)
 - [React 101 - V.Mahir Yılmaz](https://github.com/frontendistanbul/presentations/blob/master/20171205-React-101-and-An-Introduction-to-Life-Cycle-Events-in-React.pdf)
 - [Next.js Workshop - İlker Güller](https://github.com/frontendistanbul/presentations/blob/master/Nextjs-workshop.pdf)
+- [Css Animations - Aslıhan Özfidan](https://github.com/frontendistanbul/presentations/blob/master/css_animation.pdf)
