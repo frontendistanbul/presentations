@@ -11,3 +11,4 @@ Frontend İstanbul etkinliklerinde yapılan sunumlara buradan ulaşabilirsiniz.
 - [Vuex ve Efektif Kullanımı - Abdullah Mara](http://slides.com/abdullahmara/fe-2018-kh#)
 - [Mobx ile Basit ve Ölçeklenebilir State Yönetimi - Ahmet Deniz](http://slides.com/ahmetdeniz/deck-1#)
 - [Arayüz Geliştiriciler Kullanıcı Deneyimini Nasıl Etkiler? - Fatih Akgöze](https://github.com/frontendistanbul/presentations/blob/master/FE-Istanbul-FatihAkgoze.pdf)
+- [JavaScript Motorlarının Çalışma Prensipleri - Oğuz Kılıç](https://github.com/frontendistanbul/presentations/blob/master/js-engines.pdf)
