@@ -12,3 +12,4 @@ Frontend İstanbul etkinliklerinde yapılan sunumlara buradan ulaşabilirsiniz.
 - [Mobx ile Basit ve Ölçeklenebilir State Yönetimi - Ahmet Deniz](http://slides.com/ahmetdeniz/deck-1#)
 - [Arayüz Geliştiriciler Kullanıcı Deneyimini Nasıl Etkiler? - Fatih Akgöze](https://github.com/frontendistanbul/presentations/blob/master/FE-Istanbul-FatihAkgoze.pdf)
 - [JavaScript Motorlarının Çalışma Prensipleri - Oğuz Kılıç](https://github.com/frontendistanbul/presentations/blob/master/js-engines.pdf)
+- [TypeScript - Eser Özvataf](https://speakerdeck.com/eserozvataf/typescript)
