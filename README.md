@@ -13,3 +13,4 @@ Frontend İstanbul etkinliklerinde yapılan sunumlara buradan ulaşabilirsiniz.
 - [Arayüz Geliştiriciler Kullanıcı Deneyimini Nasıl Etkiler? - Fatih Akgöze](https://github.com/frontendistanbul/presentations/blob/master/FE-Istanbul-FatihAkgoze.pdf)
 - [JavaScript Motorlarının Çalışma Prensipleri - Oğuz Kılıç](https://github.com/frontendistanbul/presentations/blob/master/js-engines.pdf)
 - [TypeScript - Eser Özvataf](https://speakerdeck.com/eserozvataf/typescript)
+- [debugger; - Fatih Acet](https://slides.com/fatihacet/js-debugging)
