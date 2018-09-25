@@ -14,3 +14,4 @@ Frontend İstanbul etkinliklerinde yapılan sunumlara buradan ulaşabilirsiniz.
 - [JavaScript Motorlarının Çalışma Prensipleri - Oğuz Kılıç](https://github.com/frontendistanbul/presentations/blob/master/js-engines.pdf)
 - [TypeScript - Eser Özvataf](https://speakerdeck.com/eserozvataf/typescript)
 - [debugger; - Fatih Acet](https://slides.com/fatihacet/js-debugging)
+- [RxJS ile Asenkron Olay ve Veri Akışlarını Yönetme - Levent Arman Özak](https://sunum.armanozak.com/rxjs-ile-asenkron-olay-ve-veri-akislarini-yonetme/)
